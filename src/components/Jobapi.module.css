@@ -1,0 +1,9 @@
+.inputFields{
+    display: flex;
+    flex-direction: row;
+}
+
+.jobtype{
+    color: greenyellow;
+    font-weight: bold;
+}
